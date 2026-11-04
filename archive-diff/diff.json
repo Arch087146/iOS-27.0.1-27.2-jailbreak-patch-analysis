@@ -1,0 +1,1663 @@
+{
+ "metaA": {
+  "Type": "zip",
+  "Physical Size": "13722855612",
+  "64-bit": "+",
+  "Characteristics": "Zip64"
+ },
+ "metaB": {
+  "Type": "zip",
+  "Physical Size": "12761486095",
+  "64-bit": "+",
+  "Characteristics": "Zip64"
+ },
+ "counts": {
+  "entriesA": 247,
+  "entriesB": 204,
+  "onlyIn27_2": 66,
+  "onlyIn27_0_1": 23,
+  "identicalContent": 115,
+  "changed": 66,
+  "identicalContentAndRawBytes": 115
+ },
+ "onlyIn27_2": [
+  {
+   "path": "141-08824-244.dmg",
+   "size": 16777216,
+   "crc": "59D8316A"
+  },
+  {
+   "path": "141-10085-240.dmg",
+   "size": 245366811,
+   "crc": "E14B4914"
+  },
+  {
+   "path": "141-10470-240.dmg",
+   "size": 247463963,
+   "crc": "4219DB37"
+  },
+  {
+   "path": "141-68931-108.dmg.aea",
+   "size": 2415919104,
+   "crc": "76F6AD6F"
+  },
+  {
+   "path": "141-68940-107.dmg.aea",
+   "size": 260046848,
+   "crc": "16630055"
+  },
+  {
+   "path": "141-68945-108.dmg.aea",
+   "size": 553648128,
+   "crc": "D6C160A5"
+  },
+  {
+   "path": "141-68953-104.dmg.aea",
+   "size": 9529458688,
+   "crc": "20FBA432"
+  },
+  {
+   "path": "Firmware\\141-08824-244.dmg.root_hash",
+   "size": 229,
+   "crc": "AB9BF1D4"
+  },
+  {
+   "path": "Firmware\\141-08824-244.dmg.trustcache",
+   "size": 863,
+   "crc": "24A161F6"
+  },
+  {
+   "path": "Firmware\\141-10085-240.dmg.trustcache",
+   "size": 8187,
+   "crc": "EE02CA5F"
+  },
+  {
+   "path": "Firmware\\141-10470-240.dmg.trustcache",
+   "size": 8341,
+   "crc": "698FCD88"
+  },
+  {
+   "path": "Firmware\\141-68931-108.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "48C1F62B"
+  },
+  {
+   "path": "Firmware\\141-68931-108.dmg.aea.trustcache",
+   "size": 3191,
+   "crc": "892B2C41"
+  },
+  {
+   "path": "Firmware\\141-68940-107.dmg.aea.mtree",
+   "size": 1754640,
+   "crc": "BC0163EA"
+  },
+  {
+   "path": "Firmware\\141-68940-107.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "4E32C8F0"
+  },
+  {
+   "path": "Firmware\\141-68940-107.dmg.aea.trustcache",
+   "size": 8063,
+   "crc": "E8AA6AA2"
+  },
+  {
+   "path": "Firmware\\141-68945-108.dmg.aea.integrity_catalog",
+   "size": 1223449,
+   "crc": "50F46007"
+  },
+  {
+   "path": "Firmware\\141-68945-108.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "20DEAB4D"
+  },
+  {
+   "path": "Firmware\\141-68945-108.dmg.aea.trustcache",
+   "size": 1653,
+   "crc": "F06C0C83"
+  },
+  {
+   "path": "Firmware\\141-68953-104.dmg.aea.mtree",
+   "size": 41966215,
+   "crc": "3304E603"
+  },
+  {
+   "path": "Firmware\\141-68953-104.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "9B65F5A1"
+  },
+  {
+   "path": "Firmware\\141-68953-104.dmg.aea.trustcache",
+   "size": 94081,
+   "crc": "FFC51DE1"
+  },
+  {
+   "path": "Firmware\\AOP\\aopfw-v64aop.RELEASE.im4p",
+   "size": 5324825,
+   "crc": "A9915A43"
+  },
+  {
+   "path": "Firmware\\AOP\\aopfw-v64saop.RELEASE.im4p",
+   "size": 5337113,
+   "crc": "DBAF9513"
+  },
+  {
+   "path": "Firmware\\AOP2\\aop2fw-v64aop2.RELEASE.im4p",
+   "size": 9404441,
+   "crc": "29BEED03"
+  },
+  {
+   "path": "Firmware\\AOP2\\aop2fw-v64saop2.RELEASE.im4p",
+   "size": 9404441,
+   "crc": "29BEED03"
+  },
+  {
+   "path": "Firmware\\AppleLPM\\AppleLPM.v64.release.im4p",
+   "size": 1319065,
+   "crc": "9E6BE57E"
+  },
+  {
+   "path": "Firmware\\Mav25-2.20.04.Release.bbfw",
+   "size": 137554153,
+   "crc": "3A6A6DEC"
+  },
+  {
+   "path": "Firmware\\Mav25-2.20.04.Release.plist",
+   "size": 4111,
+   "crc": "4FFD9C73"
+  },
+  {
+   "path": "Firmware\\V64S_HapticAssets.im4p",
+   "size": 1054,
+   "crc": "160157DF"
+  },
+  {
+   "path": "Firmware\\V64S_LeapHapticsFirmware.im4p",
+   "size": 276803,
+   "crc": "31273546"
+  },
+  {
+   "path": "Firmware\\V64_HapticAssets.im4p",
+   "size": 1054,
+   "crc": "160157DF"
+  },
+  {
+   "path": "Firmware\\V64_LeapHapticsFirmware.im4p",
+   "size": 276803,
+   "crc": "31273546"
+  },
+  {
+   "path": "Firmware\\V64_MtpFirmware.im4p",
+   "size": 5106162,
+   "crc": "A33D25F8"
+  },
+  {
+   "path": "Firmware\\V64_Multitouch.im4p",
+   "size": 854541,
+   "crc": "D5AC8575"
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8192",
+   "size": 0,
+   "crc": ""
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8192\\DigestMap.der",
+   "size": 3392,
+   "crc": "8927D717"
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8192\\DigestMap.der.plist",
+   "size": 107,
+   "crc": "73699055"
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8192\\FirmwareMap.plist",
+   "size": 663365,
+   "crc": "B915D992"
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8192\\FirmwareMap.plist.plist",
+   "size": 111,
+   "crc": "D4846207"
+  },
+  {
+   "path": "Firmware\\all_flash\\DeviceTree.v64ap.im4p",
+   "size": 69192,
+   "crc": "14990D50"
+  },
+  {
+   "path": "Firmware\\all_flash\\DeviceTree.v64sap.im4p",
+   "size": 69584,
+   "crc": "248C2F55"
+  },
+  {
+   "path": "Firmware\\all_flash\\LLB.v64.RELEASE.im4p",
+   "size": 2252695,
+   "crc": "D4CDE50F"
+  },
+  {
+   "path": "Firmware\\all_flash\\LLB.v64s.RELEASE.im4p",
+   "size": 2252654,
+   "crc": "695CBE72"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBoot.v64.RELEASE.im4p",
+   "size": 2252205,
+   "crc": "64E8C7A6"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBoot.v64s.RELEASE.im4p",
+   "size": 2252164,
+   "crc": "FD768E21"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBootData.v64.RELEASE.im4p",
+   "size": 52239,
+   "crc": "4BBD9228"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBootData.v64s.RELEASE.im4p",
+   "size": 52239,
+   "crc": "4BBD9228"
+  },
+  {
+   "path": "Firmware\\all_flash\\liquiddetect@2868~iphone-USBc-woven.im4p",
+   "size": 1162657,
+   "crc": "2CBBC08D"
+  },
+  {
+   "path": "Firmware\\all_flash\\recoverymode@2868~iphone-USBc-woven.im4p",
+   "size": 2732135,
+   "crc": "A01583D4"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-firmware.v64.RELEASE.im4p",
+   "size": 12966887,
+   "crc": "921F066C"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-firmware.v64.RELEASE.im4p.plist",
+   "size": 2890,
+   "crc": "7EBBE2CC"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-firmware.v64s.RELEASE.im4p",
+   "size": 12966887,
+   "crc": "BD6E2F55"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-firmware.v64s.RELEASE.im4p.plist",
+   "size": 2890,
+   "crc": "F1AA3B2C"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-patches.v64.im4p",
+   "size": 21137,
+   "crc": "6087B302"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-patches.v64.im4p.plist",
+   "size": 1158,
+   "crc": "7BD231D6"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-patches.v64s.im4p",
+   "size": 21137,
+   "crc": "C0DCEC2D"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-patches.v64s.im4p.plist",
+   "size": 1158,
+   "crc": "B7D62F8D"
+  },
+  {
+   "path": "Firmware\\dfu\\iBEC.v64.RELEASE.im4p",
+   "size": 2252235,
+   "crc": "A48FAF47"
+  },
+  {
+   "path": "Firmware\\dfu\\iBEC.v64s.RELEASE.im4p",
+   "size": 2252194,
+   "crc": "5697C24E"
+  },
+  {
+   "path": "Firmware\\dfu\\iBSS.v64.RELEASE.im4p",
+   "size": 2252695,
+   "crc": "6CD8CB53"
+  },
+  {
+   "path": "Firmware\\dfu\\iBSS.v64s.RELEASE.im4p",
+   "size": 2252654,
+   "crc": "AB309DBA"
+  },
+  {
+   "path": "Firmware\\embeddedaudioresources\\image4\\v64-boot-chime.im4p",
+   "size": 586503,
+   "crc": "97D019D7"
+  },
+  {
+   "path": "kernelcache.release.v63",
+   "size": 24185308,
+   "crc": "3ECCE5E6"
+  },
+  {
+   "path": "kernelcache.release.v64",
+   "size": 23896538,
+   "crc": "FBC0D8DB"
+  },
+  {
+   "path": "kernelcache.research.v63",
+   "size": 24185271,
+   "crc": "A01B94FE"
+  }
+ ],
+ "onlyIn27_0_1": [
+  {
+   "path": "043-68478-764.dmg.aea",
+   "size": 188743680,
+   "crc": "15D726F3"
+  },
+  {
+   "path": "043-69297-793.dmg",
+   "size": 16777216,
+   "crc": "FE13EE1D"
+  },
+  {
+   "path": "043-69473-662.dmg.aea",
+   "size": 9261023232,
+   "crc": "2A9E7DC6"
+  },
+  {
+   "path": "043-69851-764.dmg.aea",
+   "size": 251658240,
+   "crc": "93FC2C60"
+  },
+  {
+   "path": "043-70107-711.dmg.aea",
+   "size": 2348810240,
+   "crc": "4D52E4AB"
+  },
+  {
+   "path": "094-72340-470.dmg",
+   "size": 245366811,
+   "crc": "EED6D483"
+  },
+  {
+   "path": "094-72364-463.dmg",
+   "size": 247463963,
+   "crc": "B12E493D"
+  },
+  {
+   "path": "Firmware\\043-68478-764.dmg.aea.integrity_catalog",
+   "size": 998089,
+   "crc": "620E2E95"
+  },
+  {
+   "path": "Firmware\\043-68478-764.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "DAE2B2DA"
+  },
+  {
+   "path": "Firmware\\043-68478-764.dmg.aea.trustcache",
+   "size": 1631,
+   "crc": "A99EB420"
+  },
+  {
+   "path": "Firmware\\043-69297-793.dmg.root_hash",
+   "size": 229,
+   "crc": "C39654E2"
+  },
+  {
+   "path": "Firmware\\043-69297-793.dmg.trustcache",
+   "size": 863,
+   "crc": "C6675B15"
+  },
+  {
+   "path": "Firmware\\043-69473-662.dmg.aea.mtree",
+   "size": 40802753,
+   "crc": "380CA529"
+  },
+  {
+   "path": "Firmware\\043-69473-662.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "9DED1301"
+  },
+  {
+   "path": "Firmware\\043-69473-662.dmg.aea.trustcache",
+   "size": 92065,
+   "crc": "51EEBE42"
+  },
+  {
+   "path": "Firmware\\043-69851-764.dmg.aea.mtree",
+   "size": 1715723,
+   "crc": "5D02B5B7"
+  },
+  {
+   "path": "Firmware\\043-69851-764.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "EC270E9A"
+  },
+  {
+   "path": "Firmware\\043-69851-764.dmg.aea.trustcache",
+   "size": 8015,
+   "crc": "7D81C6DB"
+  },
+  {
+   "path": "Firmware\\043-70107-711.dmg.aea.root_hash",
+   "size": 229,
+   "crc": "1D8B1EFB"
+  },
+  {
+   "path": "Firmware\\043-70107-711.dmg.aea.trustcache",
+   "size": 3167,
+   "crc": "5E503B73"
+  },
+  {
+   "path": "Firmware\\094-72340-470.dmg.trustcache",
+   "size": 8209,
+   "crc": "876019D9"
+  },
+  {
+   "path": "Firmware\\094-72364-463.dmg.trustcache",
+   "size": 8363,
+   "crc": "DD61307A"
+  },
+  {
+   "path": "kernelcache.research.v6x-pandia",
+   "size": 23847483,
+   "crc": "8E048A30"
+  }
+ ],
+ "changed": [
+  {
+   "path": "BuildManifest.plist",
+   "size_27_2": 3338104,
+   "size_27_0_1": 1602294,
+   "packed_27_2": 162250,
+   "packed_27_0_1": 76849,
+   "crc_27_2": "9E32E179",
+   "crc_27_0_1": "A5854799",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\AOP\\aopfw-v63aop.RELEASE.im4p",
+   "size_27_2": 5337113,
+   "size_27_0_1": 5333017,
+   "packed_27_2": 1615116,
+   "packed_27_0_1": 1614120,
+   "crc_27_2": "DBAF9513",
+   "crc_27_0_1": "FB578162",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\AOP2\\aop2fw-v63aop2.RELEASE.im4p",
+   "size_27_2": 9404441,
+   "size_27_0_1": 9388057,
+   "packed_27_2": 1183266,
+   "packed_27_0_1": 1182839,
+   "crc_27_2": "29BEED03",
+   "crc_27_0_1": "989DA674",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\AppleLPM\\AppleLPM.v63.release.im4p",
+   "size_27_2": 1269913,
+   "size_27_0_1": 1269913,
+   "packed_27_2": 862997,
+   "packed_27_0_1": 862632,
+   "crc_27_2": "665D8DF2",
+   "crc_27_0_1": "9A503400",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\M3\\bin\\securem3fw-v6x.im4p",
+   "size_27_2": 103665,
+   "size_27_0_1": 102645,
+   "packed_27_2": 67275,
+   "packed_27_0_1": 66471,
+   "crc_27_2": "829341D7",
+   "crc_27_0_1": "579BFAB7",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\Rose\\r2p1\\ftab.bin",
+   "size_27_2": 1069300,
+   "size_27_0_1": 1069076,
+   "packed_27_2": 549756,
+   "packed_27_0_1": 548981,
+   "crc_27_2": "BE290674",
+   "crc_27_0_1": "DF814E4F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\SE\\Stockholm91.RELEASE.sefw",
+   "size_27_2": 5978021,
+   "size_27_0_1": 4099299,
+   "packed_27_2": 5978757,
+   "packed_27_0_1": 4099822,
+   "crc_27_2": "0F7C99A9",
+   "crc_27_0_1": "015BDDC0",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\SE\\Stockholm91.RELEASE.sefw.plist",
+   "size_27_2": 205,
+   "size_27_0_1": 205,
+   "packed_27_2": 164,
+   "packed_27_0_1": 163,
+   "crc_27_2": "5380E1E0",
+   "crc_27_0_1": "7E72603A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\SmartIOFirmware_ASCv8.im4p",
+   "size_27_2": 1149397,
+   "size_27_0_1": 1149397,
+   "packed_27_2": 73836,
+   "packed_27_0_1": 73732,
+   "crc_27_2": "ECAE071C",
+   "crc_27_0_1": "BC9E2A8A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\V63_MtpFirmware.im4p",
+   "size_27_2": 5106162,
+   "size_27_0_1": 5106158,
+   "packed_27_2": 846737,
+   "packed_27_0_1": 846102,
+   "crc_27_2": "A9C63976",
+   "crc_27_0_1": "F70D816A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\WirelessPower\\WirelessPower.v6x.im4p",
+   "size_27_2": 238335,
+   "size_27_0_1": 238263,
+   "packed_27_2": 157721,
+   "packed_27_0_1": 157624,
+   "crc_27_2": "3D58A63A",
+   "crc_27_0_1": "DB78041F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\agx\\armfw1_g19p.im4p",
+   "size_27_2": 3411889,
+   "size_27_0_1": 3411889,
+   "packed_27_2": 532946,
+   "packed_27_0_1": 532525,
+   "crc_27_2": "C51D0F3D",
+   "crc_27_0_1": "7D033A20",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\agx\\armfw_g19p.im4p",
+   "size_27_2": 3460945,
+   "size_27_0_1": 3460945,
+   "packed_27_2": 516181,
+   "packed_27_0_1": 515902,
+   "crc_27_2": "1F345826",
+   "crc_27_0_1": "6CA065CC",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\DeviceTree.v63ap.im4p",
+   "size_27_2": 69442,
+   "size_27_0_1": 69142,
+   "packed_27_2": 69381,
+   "packed_27_0_1": 69079,
+   "crc_27_2": "B2E69CB9",
+   "crc_27_0_1": "883B0DB0",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\LLB.v63.RELEASE.im4p",
+   "size_27_2": 2252966,
+   "size_27_0_1": 2246607,
+   "packed_27_2": 2238574,
+   "packed_27_0_1": 2230945,
+   "crc_27_2": "E95BD1AD",
+   "crc_27_0_1": "A06DC42F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\LLB.v63.RESEARCH_RELEASE.im4p",
+   "size_27_2": 2286943,
+   "size_27_0_1": 2277653,
+   "packed_27_2": 2271090,
+   "packed_27_0_1": 2262787,
+   "crc_27_2": "7687D5CC",
+   "crc_27_0_1": "5A7FCC71",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\applelogo@3x-style0~iphone.im4p",
+   "size_27_2": 19194,
+   "size_27_0_1": 19193,
+   "packed_27_2": 13978,
+   "packed_27_0_1": 13982,
+   "crc_27_2": "F7CC486A",
+   "crc_27_0_1": "AF790741",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBoot.v63.RELEASE.im4p",
+   "size_27_2": 2252476,
+   "size_27_0_1": 2246117,
+   "packed_27_2": 2238414,
+   "packed_27_0_1": 2230794,
+   "crc_27_2": "4EEBE620",
+   "crc_27_0_1": "6116A90A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBoot.v63.RESEARCH_RELEASE.im4p",
+   "size_27_2": 2286453,
+   "size_27_0_1": 2277163,
+   "packed_27_2": 2270935,
+   "packed_27_0_1": 2262585,
+   "crc_27_2": "BEC0DBE1",
+   "crc_27_0_1": "3CEDA0D6",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBootData.v63.RELEASE.im4p",
+   "size_27_2": 52239,
+   "size_27_0_1": 52154,
+   "packed_27_2": 45101,
+   "packed_27_0_1": 45048,
+   "crc_27_2": "4BBD9228",
+   "crc_27_0_1": "1A86FAFD",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\iBootData.v63.RESEARCH_RELEASE.im4p",
+   "size_27_2": 52239,
+   "size_27_0_1": 52154,
+   "packed_27_2": 45101,
+   "packed_27_0_1": 45048,
+   "crc_27_2": "4BBD9228",
+   "crc_27_0_1": "1A86FAFD",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\liquiddetect@2622~iphone-USBc-woven.im4p",
+   "size_27_2": 1060455,
+   "size_27_0_1": 1060454,
+   "packed_27_2": 227855,
+   "packed_27_0_1": 227851,
+   "crc_27_2": "7E80DEE0",
+   "crc_27_0_1": "DBF6F8AA",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\recoverymode@2622~iphone-USBc-woven.im4p",
+   "size_27_2": 2648356,
+   "size_27_0_1": 2648355,
+   "packed_27_2": 1339660,
+   "packed_27_0_1": 1339661,
+   "crc_27_2": "431FF270",
+   "crc_27_0_1": "CA6ED3F8",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\researchlogo@3x-style0~iphone.im4p",
+   "size_27_2": 60808,
+   "size_27_0_1": 60807,
+   "packed_27_2": 26610,
+   "packed_27_0_1": 26609,
+   "crc_27_2": "909F7AB8",
+   "crc_27_0_1": "D2848939",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-firmware.v63.RELEASE.im4p",
+   "size_27_2": 12966887,
+   "size_27_0_1": 12983271,
+   "packed_27_2": 12950561,
+   "packed_27_0_1": 12966956,
+   "crc_27_2": "ACA7423C",
+   "crc_27_0_1": "CE60D394",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-firmware.v63.RELEASE.im4p.plist",
+   "size_27_2": 2890,
+   "size_27_0_1": 2890,
+   "packed_27_2": 1015,
+   "packed_27_0_1": 1014,
+   "crc_27_2": "0A2C86C0",
+   "crc_27_0_1": "FB8F83D7",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-patches.v63.im4p",
+   "size_27_2": 21137,
+   "size_27_0_1": 21137,
+   "packed_27_2": 20815,
+   "packed_27_0_1": 20816,
+   "crc_27_2": "145BAC19",
+   "crc_27_0_1": "CAB1574F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\all_flash\\sep-patches.v63.im4p.plist",
+   "size_27_2": 1158,
+   "size_27_0_1": 1158,
+   "packed_27_2": 413,
+   "packed_27_0_1": 414,
+   "crc_27_2": "F54AE151",
+   "crc_27_0_1": "F9C1DA9C",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ane\\h19_ane0_fw_perses_v6x.im4p",
+   "size_27_2": 1556505,
+   "size_27_0_1": 1572889,
+   "packed_27_2": 348035,
+   "packed_27_0_1": 331228,
+   "crc_27_2": "CCE037A1",
+   "crc_27_0_1": "2F386A03",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ane\\h19_ane1_fw_perses_v6x.im4p",
+   "size_27_2": 1556505,
+   "size_27_0_1": 1572889,
+   "packed_27_2": 348079,
+   "packed_27_0_1": 331236,
+   "crc_27_2": "1B7396CF",
+   "crc_27_0_1": "88EF25C1",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ansf.t8160.release.im4p",
+   "size_27_2": 1396221,
+   "size_27_0_1": 1388473,
+   "packed_27_2": 1393879,
+   "packed_27_0_1": 1385761,
+   "crc_27_2": "469523AC",
+   "crc_27_0_1": "290F5A9C",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19.im4p",
+   "size_27_2": 2737129,
+   "size_27_0_1": 2737025,
+   "packed_27_2": 632611,
+   "packed_27_0_1": 631707,
+   "crc_27_2": "C11DA14B",
+   "crc_27_0_1": "B140A880",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE0.im4p",
+   "size_27_2": 10387,
+   "size_27_0_1": 10387,
+   "packed_27_2": 5793,
+   "packed_27_0_1": 5794,
+   "crc_27_2": "8F812E77",
+   "crc_27_0_1": "7814F614",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE1.im4p",
+   "size_27_2": 17563,
+   "size_27_0_1": 17563,
+   "packed_27_2": 11120,
+   "packed_27_0_1": 11121,
+   "crc_27_2": "CF77B126",
+   "crc_27_0_1": "3E5B6962",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE2.im4p",
+   "size_27_2": 11863,
+   "size_27_0_1": 11863,
+   "packed_27_2": 7066,
+   "packed_27_0_1": 7067,
+   "crc_27_2": "6E63F441",
+   "crc_27_0_1": "E73D2E07",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE3.im4p",
+   "size_27_2": 9975,
+   "size_27_0_1": 9975,
+   "packed_27_2": 5506,
+   "packed_27_0_1": 5506,
+   "crc_27_2": "4523D71A",
+   "crc_27_0_1": "A9F3BE8A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE4.im4p",
+   "size_27_2": 12207,
+   "size_27_0_1": 12207,
+   "packed_27_2": 7017,
+   "packed_27_0_1": 7015,
+   "crc_27_2": "038EF40C",
+   "crc_27_0_1": "3CA78824",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE5.im4p",
+   "size_27_2": 11911,
+   "size_27_0_1": 11911,
+   "packed_27_2": 6791,
+   "packed_27_0_1": 6793,
+   "crc_27_2": "5AA8AFC6",
+   "crc_27_0_1": "83D7E33A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE6.im4p",
+   "size_27_2": 9695,
+   "size_27_0_1": 9695,
+   "packed_27_2": 5446,
+   "packed_27_0_1": 5446,
+   "crc_27_2": "4EBF88F2",
+   "crc_27_0_1": "9DFC881E",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE7.im4p",
+   "size_27_2": 12915,
+   "size_27_0_1": 12915,
+   "packed_27_2": 7766,
+   "packed_27_0_1": 7766,
+   "crc_27_2": "162B8A3B",
+   "crc_27_0_1": "42F5662D",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\ave\\AppleAVE2FW_H19_AVE8.im4p",
+   "size_27_2": 26311,
+   "size_27_0_1": 26311,
+   "packed_27_2": 17301,
+   "packed_27_0_1": 17300,
+   "crc_27_2": "E97D0002",
+   "crc_27_0_1": "9590FFF1",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\c4020iphone\\Release\\patched\\ftab.bin",
+   "size_27_2": 206061155,
+   "size_27_0_1": 198246326,
+   "packed_27_2": 125043735,
+   "packed_27_0_1": 117396894,
+   "crc_27_2": "EC19A7B7",
+   "crc_27_0_1": "EFA5E0F6",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\dcp\\t8160dcp.im4p",
+   "size_27_2": 3014132,
+   "size_27_0_1": 3004056,
+   "packed_27_2": 3007804,
+   "packed_27_0_1": 2997886,
+   "crc_27_2": "213E0DDA",
+   "crc_27_0_1": "787EBEAE",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\dcp\\t8160dcp_restore.im4p",
+   "size_27_2": 3015415,
+   "size_27_0_1": 3004783,
+   "packed_27_2": 3009183,
+   "packed_27_0_1": 2998311,
+   "crc_27_2": "74ABACCB",
+   "crc_27_0_1": "E4B2BD1E",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\dfu\\iBEC.v63.RELEASE.im4p",
+   "size_27_2": 2252506,
+   "size_27_0_1": 2246147,
+   "packed_27_2": 2238444,
+   "packed_27_0_1": 2230823,
+   "crc_27_2": "9B814090",
+   "crc_27_0_1": "A7CB094A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\dfu\\iBEC.v63.RESEARCH_RELEASE.im4p",
+   "size_27_2": 2286483,
+   "size_27_0_1": 2277193,
+   "packed_27_2": 2270965,
+   "packed_27_0_1": 2262615,
+   "crc_27_2": "47397A18",
+   "crc_27_0_1": "E1AF3569",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\dfu\\iBSS.v63.RELEASE.im4p",
+   "size_27_2": 2252966,
+   "size_27_0_1": 2246607,
+   "packed_27_2": 2238574,
+   "packed_27_0_1": 2230945,
+   "crc_27_2": "ABB09678",
+   "crc_27_0_1": "F69D0303",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\dfu\\iBSS.v63.RESEARCH_RELEASE.im4p",
+   "size_27_2": 2286943,
+   "size_27_0_1": 2277653,
+   "packed_27_2": 2271090,
+   "packed_27_0_1": 2262787,
+   "crc_27_2": "04D70514",
+   "crc_27_0_1": "9FD8CA0F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\image4\\exclavecore_bundle.t8160.RELEASE.im4p",
+   "size_27_2": 33489130,
+   "size_27_0_1": 33259754,
+   "packed_27_2": 12371966,
+   "packed_27_0_1": 12275688,
+   "crc_27_2": "C03D868E",
+   "crc_27_0_1": "5B5BB42F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\image4\\exclavecore_bundle.t8160.RELEASE.restore.im4p",
+   "size_27_2": 17989866,
+   "size_27_0_1": 17907946,
+   "packed_27_2": 7017600,
+   "packed_27_0_1": 6983798,
+   "crc_27_2": "094C814A",
+   "crc_27_0_1": "CD08E81F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\isp_bni\\adc-boreas-v6x.im4p",
+   "size_27_2": 30359579,
+   "size_27_0_1": 30162971,
+   "packed_27_2": 11205758,
+   "packed_27_0_1": 11118111,
+   "crc_27_2": "FDF2A4E1",
+   "crc_27_0_1": "EB24DC36",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\msr\\t8160.msrf.im4p",
+   "size_27_2": 166381,
+   "size_27_0_1": 166317,
+   "packed_27_2": 57248,
+   "packed_27_0_1": 57180,
+   "crc_27_2": "112B8B4E",
+   "crc_27_0_1": "B4257688",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\msr\\t8160.rmsr.im4p",
+   "size_27_2": 166381,
+   "size_27_0_1": 166317,
+   "packed_27_2": 57248,
+   "packed_27_0_1": 57179,
+   "crc_27_2": "901C1FC3",
+   "crc_27_0_1": "A1F1D266",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\pmc\\t8160pmcfw.im4p",
+   "size_27_2": 36419,
+   "size_27_0_1": 36419,
+   "packed_27_2": 20493,
+   "packed_27_0_1": 20494,
+   "crc_27_2": "3CCA4CAE",
+   "crc_27_0_1": "C9CDA388",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\pmp\\t8160pmp.im4p",
+   "size_27_2": 737305,
+   "size_27_0_1": 716825,
+   "packed_27_2": 164283,
+   "packed_27_0_1": 154085,
+   "crc_27_2": "4B2610A4",
+   "crc_27_0_1": "A4F45728",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\rans.t8160.release.im4p",
+   "size_27_2": 1396221,
+   "size_27_0_1": 1388473,
+   "packed_27_2": 1393879,
+   "packed_27_0_1": 1385761,
+   "crc_27_2": "B7FB63B5",
+   "crc_27_0_1": "855F8A43",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\sptm.t8160.release.im4p",
+   "size_27_2": 216963,
+   "size_27_0_1": 213802,
+   "packed_27_2": 216305,
+   "packed_27_0_1": 213204,
+   "crc_27_2": "6200B14F",
+   "crc_27_0_1": "C1C7EB0F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\t2026phoneG2\\Release\\ftab.bin",
+   "size_27_2": 30240436,
+   "size_27_0_1": 29879676,
+   "packed_27_2": 11626221,
+   "packed_27_0_1": 11565923,
+   "crc_27_2": "5E443BE9",
+   "crc_27_0_1": "D8C4ABEF",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\txm.iphoneos.release.im4p",
+   "size_27_2": 224174,
+   "size_27_0_1": 223884,
+   "packed_27_2": 224130,
+   "packed_27_0_1": 223847,
+   "crc_27_2": "C709586F",
+   "crc_27_0_1": "F3014B42",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\txm.iphoneos.research.im4p",
+   "size_27_2": 224183,
+   "size_27_0_1": 223888,
+   "packed_27_2": 224141,
+   "packed_27_0_1": 223850,
+   "crc_27_2": "6339370E",
+   "crc_27_0_1": "EAAD31A8",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\vinyl_20.plist",
+   "size_27_2": 2515,
+   "size_27_0_1": 2515,
+   "packed_27_2": 1016,
+   "packed_27_0_1": 1019,
+   "crc_27_2": "4ED7254A",
+   "crc_27_0_1": "D5D87C5A",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Firmware\\vinyl_20.vnlfw",
+   "size_27_2": 19633897,
+   "size_27_0_1": 19626468,
+   "packed_27_2": 19612638,
+   "packed_27_0_1": 19604922,
+   "crc_27_2": "6F7F2849",
+   "crc_27_0_1": "40D43155",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "Restore.plist",
+   "size_27_2": 1874,
+   "size_27_0_1": 1093,
+   "packed_27_2": 491,
+   "packed_27_0_1": 440,
+   "crc_27_2": "6BC7B066",
+   "crc_27_0_1": "AB81D26F",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "RestoreVersion.plist",
+   "size_27_2": 360,
+   "size_27_0_1": 360,
+   "packed_27_2": 219,
+   "packed_27_0_1": 219,
+   "crc_27_2": "BEC2B479",
+   "crc_27_0_1": "72D8C040",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "SystemVersion.plist",
+   "size_27_2": 490,
+   "size_27_0_1": 492,
+   "packed_27_2": 276,
+   "packed_27_0_1": 279,
+   "crc_27_2": "89A12597",
+   "crc_27_0_1": "7F3E997D",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  },
+  {
+   "path": "kernelcache.release.v6x-pandia",
+   "size_27_2": 24013518,
+   "size_27_0_1": 23847493,
+   "packed_27_2": 23992853,
+   "packed_27_0_1": 23826947,
+   "crc_27_2": "94AFC307",
+   "crc_27_0_1": "BCAB240E",
+   "method_27_2": "Deflate",
+   "method_27_0_1": "Deflate"
+  }
+ ],
+ "identicalButRecompressed": [],
+ "sameList": [
+  {
+   "path": "Firmware",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\AOP",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\AOP2",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\AppleLPM",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Furei",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch0",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch0.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch1",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch1.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch2",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch2.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch3",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch3.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch4",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch4.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch5",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch5.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch6",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch6.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch7",
+   "size": 1960
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch7.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch8",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch8.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch9",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatch9.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchA",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchA.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchB",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchB.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchC",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchC.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchD",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchD.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchE",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchE.plist",
+   "size": 408
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchF",
+   "size": 680
+  },
+  {
+   "path": "Firmware\\Furei\\YonkersIR1,SysTopPatchF.plist",
+   "size": 407
+  },
+  {
+   "path": "Firmware\\Hamal",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch0",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch0.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch1",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch1.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch2",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch2.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch3",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch3.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch4",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch4.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch5",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch5.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch6",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch6.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch7",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch7.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch8",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch8.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch9",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatch9.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchA",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchA.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchB",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchB.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchC",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchC.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchD",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchD.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchE",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchE.plist",
+   "size": 404
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchF",
+   "size": 1492
+  },
+  {
+   "path": "Firmware\\Hamal\\JasmineIR1,FwPatchF.plist",
+   "size": 403
+  },
+  {
+   "path": "Firmware\\M3",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\M3\\bin",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Rose",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Rose\\r2p1",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\SE",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Summerville",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch0",
+   "size": 200
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch0.plist",
+   "size": 1056
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch1",
+   "size": 200
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch1.plist",
+   "size": 1052
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch8",
+   "size": 184
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch8.plist",
+   "size": 1056
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch9",
+   "size": 184
+  },
+  {
+   "path": "Firmware\\Summerville\\Yonkers,SysTopPatch9.plist",
+   "size": 1052
+  },
+  {
+   "path": "Firmware\\V63_HapticAssets.im4p",
+   "size": 1186
+  },
+  {
+   "path": "Firmware\\V63_LeapHapticsFirmware.im4p",
+   "size": 249100
+  },
+  {
+   "path": "Firmware\\V63_Multitouch.im4p",
+   "size": 854541
+  },
+  {
+   "path": "Firmware\\Volchok",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8191",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8191\\DigestMap.der",
+   "size": 1792
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8191\\DigestMap.der.plist",
+   "size": 107
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8191\\FirmwareMap.plist",
+   "size": 399760
+  },
+  {
+   "path": "Firmware\\Volchok\\BAT8191\\FirmwareMap.plist.plist",
+   "size": 111
+  },
+  {
+   "path": "Firmware\\WirelessPower",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\agx",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\all_flash",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\ane",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\avd",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\avd\\AppleAVDFW_H19P.im4p",
+   "size": 107464
+  },
+  {
+   "path": "Firmware\\ave",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\c4020iphone",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\c4020iphone\\Release",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\c4020iphone\\Release\\patched",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\dcp",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\dfu",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\embeddedaudioresources",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\embeddedaudioresources\\image4",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\embeddedaudioresources\\image4\\v63-boot-chime.im4p",
+   "size": 586503
+  },
+  {
+   "path": "Firmware\\image4",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\isp_bni",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\msr",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\pmc",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\pmp",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\t2026phoneG2",
+   "size": 0
+  },
+  {
+   "path": "Firmware\\t2026phoneG2\\Release",
+   "size": 0
+  }
+ ]
+}
